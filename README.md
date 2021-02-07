@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true)
 
+![Metrics](https://metrics.lecoq.io/kulbhushanchand?template=classic&activity=1&followup=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true)
+
 ![HitCount](http://hits.dwyl.com/kulbhushanchand/kulbhushanchand.svg)
 
 ![ProfileViews](https://views.whatilearened.today/views/github/kulbhushanchand/kulbhushanchand.svg)
