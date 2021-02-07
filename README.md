@@ -18,7 +18,7 @@ I am Kulbhushan Chand.
 
 
 
-### Some stats about my GitHub activity:
+### Statistics of my GitHub activity:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true)
 
