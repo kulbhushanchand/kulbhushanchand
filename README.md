@@ -22,7 +22,7 @@ I am Kulbhushan Chand.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true)
 
-![Metrics](https://metrics.lecoq.io/kulbhushanchand?template=classic&activity=1&followup=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true)
+![Metrics](https://metrics.lecoq.io/kulbhushanchand?template=classic&followup=1&config.timezone=Asia%2FCalcutta&config.animated=true)
 
 ![HitCount](http://hits.dwyl.com/kulbhushanchand/kulbhushanchand.svg)
 
