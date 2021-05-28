@@ -19,29 +19,30 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
+<i class="fab fa-fw fa-github" aria-hidden="true"></i>
 
 ## Software projects
 
 - **BioNES** 
-[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/BioNES){: .btn}|
-[<i class="fas fa-book" aria-hidden="true"></i> Docs](https://kulbhushanchand.github.io/BioNES/){: .btn}    
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/BioNES)|
+[<i class="fas fa-book" aria-hidden="true"></i> Docs](https://kulbhushanchand.github.io/BioNES/)    
 A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback.
 
 - **MCP4251** 
-[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/MCP4251){: .btn}|
-[<i class="fas fa-book" aria-hidden="true"></i> Docs](https://kulbhushanchand.github.io/MCP4251/){: .btn}    
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/MCP4251)|
+[<i class="fas fa-book" aria-hidden="true"></i> Docs](https://kulbhushanchand.github.io/MCP4251/)    
 Arduino library for MCP4251 Digital Potentiometer.
 
 - **classroom-gamification** 
-[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/classroom-gamification){: .btn}  
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/classroom-gamification)  
 Tool to gamify your classroom with an online leaderboard.
 
 
 ## Book projects
 
 - **GamificationCourseBook** 
-[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/GamificationCourseBook){: .btn}|
-[<i class="fas fa-book-open" aria-hidden="true"></i> Book](https://kulbhushanchand.github.io/GamificationCourseBook/){: .btn}    
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub](https://github.com/kulbhushanchand/GamificationCourseBook)|
+[<i class="fas fa-book-open" aria-hidden="true"></i> Book](https://kulbhushanchand.github.io/GamificationCourseBook/)    
 An online course book for Gamification (ECX-488).
 
 
