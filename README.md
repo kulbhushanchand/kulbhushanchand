@@ -20,19 +20,19 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
 
-## Software projects
+## Software projects 👨‍💻
 
 - [**BioNES**](https://github.com/kulbhushanchand/BioNES): A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback
 - [**MCP4251**](https://github.com/kulbhushanchand/MCP4251): Arduino library for MCP4251 Digital Potentiometer
 - [**classroom-gamification**](https://github.com/kulbhushanchand/classroom-gamification): Tool to gamify your classroom with an online leaderboard
 
 
-## Book projects
+## Book projects 📖
 
 - [**GamificationCourseBook**](https://github.com/kulbhushanchand/GamificationCourseBook): An online coursebook for Gamification (ECX-488)
 
 
-## Research projects
+## Research projects 👨‍🔬
 
 See my [OSF page](https://osf.io/wxqdj) for a full list of open source research projects that I'm involved with. (As of now the projects are private and will be made public after the publication)
 
