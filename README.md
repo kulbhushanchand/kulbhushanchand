@@ -36,7 +36,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 
 ## Research projects 👨‍🔬
 
-See my [OSF page](https://osf.io/wxqdj) for a full list of open source research projects that I'm involved with. (As of now the projects are private and will be made public after the publication)
+- [**AfDaq: An Open-source MATLAB based Real-time Multi-channel Data Acquisition Tool for Biofeedback and Arduino based Instruments**](https://osf.io/vctjm/)
 
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true) 
