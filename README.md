@@ -36,7 +36,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 
 ## Research projects 👨‍🔬
 
-- [**AfDaq: An Open-source MATLAB based Real-time Multi-channel Data Acquisition Tool for Biofeedback and Arduino based Instruments**](https://doi.org/10.17605/OSF.IO/VCTJM)
+- [**AfDaq: An Open-source MATLAB based Real-time Multi-channel Data Acquisition Tool for Biofeedback and Arduino based Instruments**](https://doi.org/10.17605/OSF.IO/VCTJM): An open-source plug and play MATLAB based tool for biofeedback and arduino based instruments, which offers the capabilities of multi-channel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. 
 
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true) 
