@@ -22,6 +22,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 
 ## Software projects 👨‍💻
 
+- [**AfDaq**](https://github.com/kulbhushanchand/AfDaq): A plug and play MATLAB based tool for biofeedback and arduino based instruments.
 - [**BioNES**](https://github.com/kulbhushanchand/BioNES): A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback
 - [**MCP4251**](https://github.com/kulbhushanchand/MCP4251): Arduino library for MCP4251 Digital Potentiometer
 - [**classroom-gamification**](https://github.com/kulbhushanchand/classroom-gamification): Tool to gamify your classroom with an online leaderboard
@@ -30,6 +31,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 ## Book projects 📖
 
 - [**GamificationCourseBook**](https://github.com/kulbhushanchand/GamificationCourseBook): An online coursebook for Gamification (ECX-488)
+- [**ArduinoWorkshopForKids**](https://github.com/kulbhushanchand/ArduinoWorkshopForKids): Fun experiments with arduino for kids
 
 
 ## Research projects 👨‍🔬
