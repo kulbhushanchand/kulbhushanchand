@@ -41,6 +41,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
   
 ## Other online profiles
 
+- **Personal website**: [kulbhushanchand.github.io](http://kulbhushanchand.github.io/)
 - **LinkedIn**: [kulbhushan-chand](https://www.linkedin.com/in/kulbhushan-chand)
 - **Google Scholar**: [s9_oY5MAAAAJ&hl](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)
 - **OSF**: [wxqdj](https://osf.io/wxqdj)
@@ -51,4 +52,4 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 ---
 
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.  
-> [*The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) 
+> [- *The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) 
