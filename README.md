@@ -44,8 +44,8 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - **Personal website**: [kulbhushanchand.github.io](http://kulbhushanchand.github.io/)
 - **LinkedIn**: [kulbhushan-chand](https://www.linkedin.com/in/kulbhushan-chand)
 - **Google Scholar**: [s9_oY5MAAAAJ&hl](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)
-- **OSF**: [wxqdj](https://osf.io/wxqdj)
 - **ORCID**: [0000-0001-6502-0748](https://orcid.org/0000-0001-6502-0748)
+- **OSF**: [wxqdj](https://osf.io/wxqdj)
 - **ResearchGate**: [Kulbhushan-Chand](https://www.researchgate.net/profile/Kulbhushan-Chand)
 - **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 
