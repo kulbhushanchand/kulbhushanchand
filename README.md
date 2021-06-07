@@ -20,7 +20,7 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
 
-## Software projects 👨‍💻
+## Software projects 👨‍💻 
 
 - [**AfDaq**](https://github.com/kulbhushanchand/AfDaq): A plug and play MATLAB based tool for biofeedback and arduino based instruments.
 - [**BioNES**](https://github.com/kulbhushanchand/BioNES): A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback
@@ -39,7 +39,16 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - [**AfDaq: An Open-source MATLAB based Real-time Multi-channel Data Acquisition Tool for Biofeedback and Arduino based Instruments**](https://doi.org/10.17605/OSF.IO/VCTJM): An open-source plug and play MATLAB based tool for biofeedback and arduino based instruments, which offers the capabilities of multi-channel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. 
 
   
-![My github stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true) 
+## Other online profiles
 
-![ProfileViews](https://views.whatilearened.today/views/github/kulbhushanchand/kulbhushanchand.svg)
+- **LinkedIn**: [kulbhushan-chand](https://www.linkedin.com/in/kulbhushan-chand)
+- **Google Scholar**: [s9_oY5MAAAAJ&hl](https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl)
+- **OSF**: [wxqdj](https://osf.io/wxqdj)
+- **ORCID**: [0000-0001-6502-0748](https://orcid.org/0000-0001-6502-0748)
+- **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 
+
+---
+
+> I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.  
+> [*The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) 
