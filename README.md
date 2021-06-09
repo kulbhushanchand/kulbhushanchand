@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I did my BTech and MTech in Electronics and Communication engineering. In PhD, my work is towards the development of a low-cost biofeedback system. My research interests lie in biofeedback systems, using video games for biofeedback, and gamification.
 
-I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
+I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I enjoy working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
 
 ## Software Projects 👨‍💻 
@@ -38,7 +38,15 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 
 - [**AfDaq: An Open-source MATLAB based Real-time Multi-channel Data Acquisition Tool for Biofeedback and Arduino based Instruments**](https://doi.org/10.17605/OSF.IO/VCTJM): An open-source plug and play MATLAB based tool for biofeedback and arduino based instruments, which offers the capabilities of multi-channel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. 
 
-  
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Kb Rmd test](https://kulbhushanchand.github.io/test-rmd/)
+- [Welcome to Jekyll! kb](https://kulbhushanchand.github.io/welcome-to-jekyll/)
+<!-- BLOG-POST-LIST:END -->
+
+
 ## Online Profiles
 
 - **Personal website**: [kulbhushanchand.github.io](http://kulbhushanchand.github.io/)
@@ -51,14 +59,13 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 
 
-## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Kb Rmd test](https://kulbhushanchand.github.io/test-rmd/)
-- [Welcome to Jekyll! kb](https://kulbhushanchand.github.io/welcome-to-jekyll/)
-<!-- BLOG-POST-LIST:END -->
+
+
+## GitHub stats
+
+[![Kulbhushan Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ---
-
-> I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.  
-> [- *The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) 
+> I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer. [- *The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) 
