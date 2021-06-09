@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="hi">
 
 I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I did my BTech and MTech in Electronics and Communication engineering. In PhD, my work is towards the development of a low-cost biofeedback system. My research interests lie in biofeedback systems, using video games for biofeedback, and gamification.
 
