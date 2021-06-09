@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 
+  <a href="https://kulbhushanchand.github.io/" title="Personal Website">
+    <img src="assets\link-solid.svg" width="25px" alt="link-logo" />
+  </a>
+&nbsp;  
   <a href="https://www.linkedin.com/in/kulbhushan-chand/" title="LinkedIn">
     <img src="assets\linkedin-in-brands.svg" width="25px" alt="linkedin-logo" />
   </a>
