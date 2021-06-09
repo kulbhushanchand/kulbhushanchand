@@ -15,6 +15,39 @@ Here are some ideas to get you started:
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="hi">
 
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/kulbhushan-chand/" title="LinkedIn">
+    <img src="assets\linkedin-in-brands.svg" width="25px" alt="linkedin-logo" />
+  </a>
+&nbsp;
+  <a href="https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl" title="Google Scholar">
+    <img src="assets\Google_Scholar_logo.svg" width="25px" alt="google-scholar-logo" />
+  </a>
+&nbsp;
+  <a href="https://orcid.org/0000-0001-6502-0748" title="ORCID">
+    <img src="assets\orcid-brands.svg" width="25px" alt="orcid-logo" />
+  </a>
+&nbsp;
+  <a href="https://www.researchgate.net/profile/Kulbhushan-Chand" title="ResearchGate">
+    <img src="assets\researchgate-brands.svg" width="25px" alt="researchgate-logo" />
+  </a>
+&nbsp;
+  <a href="https://github.com/kulbhushanchand" title="GitHub">
+    <img src="assets\github-brands.svg" width="25px" alt="github-logo" />
+  </a>
+&nbsp;
+  <a href="https://osf.io/wxqdj/" title="OSF">
+    <img src="assets\cos-shield.png" width="25px" alt="osf-logo" />
+  </a>
+&nbsp;
+  <a href="https://www.youtube.com/c/KulbhushanChand" title="YouTube">
+    <img src="assets\youtube-brands.svg" width="25px" alt="youtube-logo" />
+  </a>
+
+</p>
+
+
 I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I did my BTech and MTech in Electronics and Communication engineering. In PhD, my work is towards the development of a low-cost biofeedback system. My research interests lie in biofeedback systems, using video games for biofeedback, and gamification.
 
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I enjoy working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
@@ -46,7 +79,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - [Welcome to Jekyll! kb](https://kulbhushanchand.github.io/welcome-to-jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
-
+<!--
 ## Online Profiles
 
 - **Personal website**: [kulbhushanchand.github.io](http://kulbhushanchand.github.io/)
@@ -57,9 +90,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - **GitHub**: [kulbhushanchand](https://github.com/kulbhushanchand)
 - **OSF**: [wxqdj](https://osf.io/wxqdj)
 - **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
-
-
-
+-->
 
 
 ## GitHub stats
