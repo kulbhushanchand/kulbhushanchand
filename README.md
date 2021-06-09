@@ -51,6 +51,11 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 
 
+## Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer.  
