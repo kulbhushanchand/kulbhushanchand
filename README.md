@@ -20,7 +20,7 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
 
-## Software projects 👨‍💻 
+## Software Projects 👨‍💻 
 
 - [**AfDaq**](https://github.com/kulbhushanchand/AfDaq): A plug and play MATLAB based tool for biofeedback and arduino based instruments.
 - [**BioNES**](https://github.com/kulbhushanchand/BioNES): A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback
@@ -28,18 +28,18 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - [**classroom-gamification**](https://github.com/kulbhushanchand/classroom-gamification): Tool to gamify your classroom with an online leaderboard
 
 
-## Book projects 📖
+## Book Projects 📖
 
 - [**GamificationCourseBook**](https://github.com/kulbhushanchand/GamificationCourseBook): An online coursebook for Gamification (ECX-488)
 - [**ArduinoWorkshopForKids**](https://github.com/kulbhushanchand/ArduinoWorkshopForKids): Fun experiments with arduino for kids
 
 
-## Research projects 👨‍🔬
+## Research Projects 👨‍🔬
 
 - [**AfDaq: An Open-source MATLAB based Real-time Multi-channel Data Acquisition Tool for Biofeedback and Arduino based Instruments**](https://doi.org/10.17605/OSF.IO/VCTJM): An open-source plug and play MATLAB based tool for biofeedback and arduino based instruments, which offers the capabilities of multi-channel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. 
 
   
-## Online profiles
+## Online Profiles
 
 - **Personal website**: [kulbhushanchand.github.io](http://kulbhushanchand.github.io/)
 - **LinkedIn**: [kulbhushan-chand](https://www.linkedin.com/in/kulbhushan-chand)
@@ -51,7 +51,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 
 
-## Blog posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Kb Rmd test](https://kulbhushanchand.github.io/test-rmd/)
