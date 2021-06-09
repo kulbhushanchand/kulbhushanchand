@@ -54,6 +54,8 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kb Rmd test](https://kulbhushanchand.github.io/test-rmd/)
+- [Welcome to Jekyll! kb](https://kulbhushanchand.github.io/welcome-to-jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
