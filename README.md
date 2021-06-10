@@ -18,35 +18,35 @@ Here are some ideas to get you started:
 <p align="center">
 
   <a href="https://kulbhushanchand.github.io/" title="Personal Website">
-    <img src="assets\link-solid.svg" width="25px" alt="link-logo" />
+    <img src="assets\link-solid.svg" height="25px" alt="link-logo" />
   </a>
 &nbsp;  
   <a href="https://www.linkedin.com/in/kulbhushan-chand/" title="LinkedIn">
-    <img src="assets\linkedin-in-brands.svg" width="25px" alt="linkedin-logo" />
+    <img src="assets\linkedin-in-brands.svg" height="25px" alt="linkedin-logo" />
   </a>
 &nbsp;
   <a href="https://scholar.google.co.in/citations?user=s9_oY5MAAAAJ&hl" title="Google Scholar">
-    <img src="assets\Google_Scholar_logo.svg" width="25px" alt="google-scholar-logo" />
+    <img src="assets\Google_Scholar_logo.svg" height="25px" alt="google-scholar-logo" />
   </a>
 &nbsp;
   <a href="https://orcid.org/0000-0001-6502-0748" title="ORCID">
-    <img src="assets\orcid-brands.svg" width="25px" alt="orcid-logo" />
+    <img src="assets\orcid-brands.svg" height="25px" alt="orcid-logo" />
   </a>
 &nbsp;
   <a href="https://www.researchgate.net/profile/Kulbhushan-Chand" title="ResearchGate">
-    <img src="assets\researchgate-brands.svg" width="25px" alt="researchgate-logo" />
+    <img src="assets\researchgate-brands.svg" height="25px" alt="researchgate-logo" />
   </a>
 &nbsp;
   <a href="https://github.com/kulbhushanchand" title="GitHub">
-    <img src="assets\github-brands.svg" width="25px" alt="github-logo" />
+    <img src="assets\github-brands.svg" height="25px" alt="github-logo" />
   </a>
 &nbsp;
   <a href="https://osf.io/wxqdj/" title="OSF">
-    <img src="assets\cos-shield.png" width="25px" alt="osf-logo" />
+    <img src="assets\cos-shield.png" height="25px" alt="osf-logo" />
   </a>
 &nbsp;
   <a href="https://www.youtube.com/c/KulbhushanChand" title="YouTube">
-    <img src="assets\youtube-brands.svg" width="25px" alt="youtube-logo" />
+    <img src="assets\youtube-brands.svg" height="25px" alt="youtube-logo" />
   </a>
 
 </p>
