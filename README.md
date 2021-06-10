@@ -99,11 +99,10 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 
 ## 📊 GitHub stats
 
+
 [![Kulbhushan Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kulbhushan Chand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kulbhushanchand&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 
 [![Kulbhushan Chand's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kulbhushanchand&theme=vue)](https://git.io/streak-stats)
 
 
