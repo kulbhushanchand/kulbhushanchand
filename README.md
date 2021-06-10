@@ -57,7 +57,7 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I enjoy working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
 
 
-## Software Projects 👨‍💻 
+## 👨‍💻 Software Projects 
 
 - [**AfDaq**](https://github.com/kulbhushanchand/AfDaq): A plug and play MATLAB based tool for biofeedback and arduino based instruments.
 - [**BioNES**](https://github.com/kulbhushanchand/BioNES): A plug-and-play MATLAB based tool to use NES games for multimodal biofeedback
@@ -65,13 +65,13 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - [**classroom-gamification**](https://github.com/kulbhushanchand/classroom-gamification): Tool to gamify your classroom with an online leaderboard
 
 
-## Book Projects 📖
+## 📖 Book Projects 
 
 - [**GamificationCourseBook**](https://github.com/kulbhushanchand/GamificationCourseBook): An online coursebook for Gamification (ECX-488)
 - [**ArduinoWorkshopForKids**](https://github.com/kulbhushanchand/ArduinoWorkshopForKids): Fun experiments with arduino for kids
 
 
-## Research Projects 👨‍🔬
+## 👨‍🔬 Research Projects 
 
 - [**AfDaq: An Open-source MATLAB based Real-time Multi-channel Data Acquisition Tool for Biofeedback and Arduino based Instruments**](https://doi.org/10.17605/OSF.IO/VCTJM): An open-source plug and play MATLAB based tool for biofeedback and arduino based instruments, which offers the capabilities of multi-channel real-time data acquisition, visualization, manipulation, and local saving of data for offline analysis. 
 
@@ -97,10 +97,15 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 -->
 
 
-## GitHub stats
+## 📊 GitHub stats
 
 [![Kulbhushan Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kulbhushan Chand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kulbhushanchand&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
+[![Kulbhushan Chand's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kulbhushanchand&theme=vue)](https://git.io/streak-stats)
+
 
 ---
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer. [- *The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) 
