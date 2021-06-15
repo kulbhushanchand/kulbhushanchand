@@ -87,11 +87,11 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#335](https://github.com/tumic0/GPXSee/issues/335) in [tumic0/GPXSee](https://github.com/tumic0/GPXSee)
-2. ❗️ Opened issue [#1](https://github.com/kulbhushanchand/ArduinoWorkshopForKids/issues/1) in [kulbhushanchand/ArduinoWorkshopForKids](https://github.com/kulbhushanchand/ArduinoWorkshopForKids)
-3. ❗️ Opened issue [#1](https://github.com/kulbhushanchand/GamificationCourseBook/issues/1) in [kulbhushanchand/GamificationCourseBook](https://github.com/kulbhushanchand/GamificationCourseBook)
-4. ❗️ Closed issue [#1](https://github.com/kulbhushanchand/kulbhushanchand/issues/1) in [kulbhushanchand/kulbhushanchand](https://github.com/kulbhushanchand/kulbhushanchand)
-5. 🗣 Commented on [#1](https://github.com/kulbhushanchand/kulbhushanchand/issues/1) in [kulbhushanchand/kulbhushanchand](https://github.com/kulbhushanchand/kulbhushanchand)
+1. 💪 Opened PR [#598](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/598) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#335](https://github.com/tumic0/GPXSee/issues/335) in [tumic0/GPXSee](https://github.com/tumic0/GPXSee)
+3. ❗️ Opened issue [#1](https://github.com/kulbhushanchand/ArduinoWorkshopForKids/issues/1) in [kulbhushanchand/ArduinoWorkshopForKids](https://github.com/kulbhushanchand/ArduinoWorkshopForKids)
+4. ❗️ Opened issue [#1](https://github.com/kulbhushanchand/GamificationCourseBook/issues/1) in [kulbhushanchand/GamificationCourseBook](https://github.com/kulbhushanchand/GamificationCourseBook)
+5. ❗️ Closed issue [#1](https://github.com/kulbhushanchand/kulbhushanchand/issues/1) in [kulbhushanchand/kulbhushanchand](https://github.com/kulbhushanchand/kulbhushanchand)
 <!--END_SECTION:activity-->
 
 
