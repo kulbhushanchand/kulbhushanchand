@@ -83,6 +83,14 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - [Welcome to Jekyll! kb](https://kulbhushanchand.github.io/welcome-to-jekyll/)
 <!-- BLOG-POST-LIST:END -->
 
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
 <!--
 ## Online Profiles
 
