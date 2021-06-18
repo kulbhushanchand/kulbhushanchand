@@ -87,11 +87,11 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/kulbhushanchand/GamificationCourseBook/issues/2) in [kulbhushanchand/GamificationCourseBook](https://github.com/kulbhushanchand/GamificationCourseBook)
-2. 🗣 Commented on [#611](https://github.com/ActivityWatch/activitywatch/issues/611) in [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
-3. 💪 Opened PR [#160](https://github.com/offa/android-foss/pull/160) in [offa/android-foss](https://github.com/offa/android-foss)
-4. 💪 Opened PR [#598](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/598) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-5. 🗣 Commented on [#335](https://github.com/tumic0/GPXSee/issues/335) in [tumic0/GPXSee](https://github.com/tumic0/GPXSee)
+1. ❗️ Opened issue [#9](https://github.com/ActivityWatch/aw-watcher-input/issues/9) in [ActivityWatch/aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input)
+2. ❗️ Opened issue [#2](https://github.com/kulbhushanchand/GamificationCourseBook/issues/2) in [kulbhushanchand/GamificationCourseBook](https://github.com/kulbhushanchand/GamificationCourseBook)
+3. 🗣 Commented on [#611](https://github.com/ActivityWatch/activitywatch/issues/611) in [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
+4. 💪 Opened PR [#160](https://github.com/offa/android-foss/pull/160) in [offa/android-foss](https://github.com/offa/android-foss)
+5. 💪 Opened PR [#598](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/598) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 
