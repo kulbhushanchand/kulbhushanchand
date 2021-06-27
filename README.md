@@ -79,8 +79,7 @@ Check my [OSF page](https://osf.io/wxqdj)
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kb Rmd test](https://kulbhushanchand.github.io/test-rmd/)
-- [Welcome to Jekyll! kb](https://kulbhushanchand.github.io/welcome-to-jekyll/)
+- [Website is up and ready!! 🎉](https://kulbhushanchand.github.io/website-is-up-and-ready/)
 <!-- BLOG-POST-LIST:END -->
 
 
