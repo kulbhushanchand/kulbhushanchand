@@ -86,11 +86,11 @@ Check my [OSF page](https://osf.io/wxqdj)
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/7) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-2. ❗️ Closed issue [#6](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/6) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-3. 🗣 Commented on [#6](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/6) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-4. ❗️ Opened issue [#7](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/7) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-5. 🗣 Commented on [#3773](https://github.com/FortAwesome/Font-Awesome/issues/3773) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+1. ❗️ Opened issue [#8](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/8) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+2. ❗️ Closed issue [#7](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/7) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+3. ❗️ Closed issue [#6](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/6) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+4. 🗣 Commented on [#6](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/6) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+5. ❗️ Opened issue [#7](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/7) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
 <!--END_SECTION:activity-->
 
 
