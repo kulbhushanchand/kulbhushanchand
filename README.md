@@ -86,11 +86,11 @@ Check my [OSF page](https://osf.io/wxqdj)
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/12) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-2. ❗️ Opened issue [#12](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/12) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-3. ❗️ Closed issue [#10](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/10) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-4. 🗣 Commented on [#9](https://github.com/ActivityWatch/aw-watcher-input/issues/9) in [ActivityWatch/aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input)
-5. ❗️ Opened issue [#11](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/11) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+1. 🗣 Commented on [#9](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/9) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+2. ❗️ Closed issue [#9](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/9) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+3. 🗣 Commented on [#12](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/12) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+4. ❗️ Closed issue [#12](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/12) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+5. 🗣 Commented on [#12](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/12) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
 <!--END_SECTION:activity-->
 
 
