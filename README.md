@@ -71,11 +71,6 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - [**ArduinoWorkshopForKids**](https://github.com/kulbhushanchand/ArduinoWorkshopForKids): Fun experiments with arduino for kids
 
 
-## 👨‍🔬 Research Projects 
-
-Check my [OSF page](https://osf.io/wxqdj)
-
-
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
