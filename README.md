@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="hi">
 
+<!--
 <p align="center">
 
   <a href="https://kulbhushanchand.github.io/" title="Personal Website">
@@ -50,11 +51,19 @@ Here are some ideas to get you started:
   </a>
 
 </p>
+-->
 
+I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). My research interests lie in biofeedback systems, using video games for biofeedback, and gamification.
 
-I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I did my BTech and MTech in Electronics and Communication engineering. In PhD, my work is towards the development of a low-cost biofeedback system. My research interests lie in biofeedback systems, using video games for biofeedback, and gamification.
+I am an avid supporter of **Open Source Technologies** and used them for most of my projects. I enjoy learning new tools & technologies and working on electronics hardware/software projects. When not working, I like running and cycling.
 
-I am an avid supporter of **Open Source Technologies** and used them for most of my projects. My projects (including PhD work) are open source. I enjoy working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling.  
+You can know more about me at my [website](https://kulbhushanchand.github.io/)
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Website is up and ready!! 🎉](https://kulbhushanchand.github.io/website-is-up-and-ready/)
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 👨‍💻 Software Projects 
@@ -71,14 +80,7 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - [**ArduinoWorkshopForKids**](https://github.com/kulbhushanchand/ArduinoWorkshopForKids): Fun experiments with arduino for kids
 
 
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Website is up and ready!! 🎉](https://kulbhushanchand.github.io/website-is-up-and-ready/)
-<!-- BLOG-POST-LIST:END -->
-
-
-## ⚡ Recent Activity
+## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#13](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/13) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
@@ -102,9 +104,6 @@ I am an avid supporter of **Open Source Technologies** and used them for most of
 - **OSF**: [wxqdj](https://osf.io/wxqdj)
 - **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 -->
-
-
-## 📊 GitHub stats
 
 [![Kulbhushan Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
