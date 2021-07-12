@@ -104,8 +104,10 @@ You can know more about me at my [website](https://kulbhushanchand.github.io/)
 - **OSF**: [wxqdj](https://osf.io/wxqdj)
 - **YouTube**: [KulbhushanChand](https://www.youtube.com/c/KulbhushanChand)
 -->
-
+<!--
 [![Kulbhushan Chand's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulbhushanchand&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 
 ---
