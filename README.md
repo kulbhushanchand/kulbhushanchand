@@ -53,11 +53,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). My research interests lie in biofeedback systems, using video games for biofeedback, and gamification.
-
-I am an avid supporter of **Open Source Technologies** and used them for most of my projects. I enjoy learning new tools & technologies and working on electronics hardware/software projects. When not working, I like running and cycling.
-
-You can know more about me at my [website](https://kulbhushanchand.github.io/)
+I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). My research interests lie in biofeedback systems, using video games for biofeedback, and gamification. I use Open Source Technologies for most of my projects. You can know more about me at my [website](https://kulbhushanchand.github.io/)
 
 ## 📕 Latest Blog Posts
 
@@ -109,6 +105,8 @@ You can know more about me at my [website](https://kulbhushanchand.github.io/)
 -->
 
 
+<!--
 
 ---
 > I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and I will find the answer. [- *The Pursuit of Happyness*](https://www.imdb.com/title/tt0454921/) 
+-->
