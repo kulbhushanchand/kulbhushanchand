@@ -79,11 +79,11 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/kulbhushanchand/BioNES/issues/3) in [kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)
-2. 💪 Opened PR [#3064](https://github.com/mmistakes/minimal-mistakes/pull/3064) in [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
-3. ❗️ Closed issue [#14](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/14) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-4. ❗️ Opened issue [#14](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/14) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-5. ❗️ Closed issue [#13](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/13) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+1. ❗️ Opened issue [#15](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/15) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+2. ❗️ Closed issue [#3](https://github.com/kulbhushanchand/BioNES/issues/3) in [kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)
+3. 💪 Opened PR [#3064](https://github.com/mmistakes/minimal-mistakes/pull/3064) in [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+4. ❗️ Closed issue [#14](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/14) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+5. ❗️ Opened issue [#14](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/14) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
 <!--END_SECTION:activity-->
 
 
