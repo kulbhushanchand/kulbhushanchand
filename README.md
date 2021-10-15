@@ -79,11 +79,11 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/kulbhushanchand/BioNES/issues/6) in [kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)
-2. ❗️ Opened issue [#1259](https://github.com/rstudio/bookdown/issues/1259) in [rstudio/bookdown](https://github.com/rstudio/bookdown)
-3. ❗️ Closed issue [#4](https://github.com/kulbhushanchand/BioNES/issues/4) in [kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)
-4. ❗️ Closed issue [#15](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/15) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-5. ❗️ Opened issue [#15](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/15) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+1. 🗣 Commented on [#4](https://github.com/kulbhushanchand/AfDaq/issues/4) in [kulbhushanchand/AfDaq](https://github.com/kulbhushanchand/AfDaq)
+2. ❗️ Opened issue [#6](https://github.com/kulbhushanchand/BioNES/issues/6) in [kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)
+3. ❗️ Opened issue [#1259](https://github.com/rstudio/bookdown/issues/1259) in [rstudio/bookdown](https://github.com/rstudio/bookdown)
+4. ❗️ Closed issue [#4](https://github.com/kulbhushanchand/BioNES/issues/4) in [kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)
+5. ❗️ Closed issue [#15](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/15) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
 <!--END_SECTION:activity-->
 
 
