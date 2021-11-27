@@ -79,11 +79,11 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4326](https://github.com/excalidraw/excalidraw/issues/4326) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-2. 🗣 Commented on [#9](https://github.com/microsoft/kinect-ripple/issues/9) in [microsoft/kinect-ripple](https://github.com/microsoft/kinect-ripple)
+1. 🗣 Commented on [#4326](https://github.com/excalidraw/excalidraw/issues/4326) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+2. ❗️ Opened issue [#4326](https://github.com/excalidraw/excalidraw/issues/4326) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 3. 🗣 Commented on [#9](https://github.com/microsoft/kinect-ripple/issues/9) in [microsoft/kinect-ripple](https://github.com/microsoft/kinect-ripple)
-4. 🗣 Commented on [#4](https://github.com/kulbhushanchand/AfDaq/issues/4) in [kulbhushanchand/AfDaq](https://github.com/kulbhushanchand/AfDaq)
-5. ❗️ Opened issue [#6](https://github.com/kulbhushanchand/BioNES/issues/6) in [kulbhushanchand/BioNES](https://github.com/kulbhushanchand/BioNES)
+4. 🗣 Commented on [#9](https://github.com/microsoft/kinect-ripple/issues/9) in [microsoft/kinect-ripple](https://github.com/microsoft/kinect-ripple)
+5. 🗣 Commented on [#4](https://github.com/kulbhushanchand/AfDaq/issues/4) in [kulbhushanchand/AfDaq](https://github.com/kulbhushanchand/AfDaq)
 <!--END_SECTION:activity-->
 
 
