@@ -80,10 +80,10 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#671](https://github.com/OpenTracksApp/OpenTracks/issues/671) in [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
-2. ❗️ Opened issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-3. ❗️ Closed issue [#1185](https://github.com/shanalikhan/code-settings-sync/issues/1185) in [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync)
-4. 🗣 Commented on [#4326](https://github.com/excalidraw/excalidraw/issues/4326) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-5. ❗️ Opened issue [#4326](https://github.com/excalidraw/excalidraw/issues/4326) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+2. 🗣 Commented on [#671](https://github.com/OpenTracksApp/OpenTracks/issues/671) in [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
+3. ❗️ Opened issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+4. ❗️ Closed issue [#1185](https://github.com/shanalikhan/code-settings-sync/issues/1185) in [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync)
+5. 🗣 Commented on [#4326](https://github.com/excalidraw/excalidraw/issues/4326) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 <!--END_SECTION:activity-->
 
 
