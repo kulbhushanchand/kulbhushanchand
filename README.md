@@ -79,11 +79,11 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-2. ❗️ Reopened issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-3. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-4. ❗️ Closed issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-5. 🗣 Commented on [#671](https://github.com/OpenTracksApp/OpenTracks/issues/671) in [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks)
+1. ❗️ Closed issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+2. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+3. ❗️ Reopened issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+4. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+5. ❗️ Closed issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
 <!--END_SECTION:activity-->
 
 
