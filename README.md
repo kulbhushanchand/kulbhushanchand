@@ -79,11 +79,11 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-2. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-3. ❗️ Reopened issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-4. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
-5. ❗️ Closed issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+1. 🗣 Commented on [#1](https://github.com/kulbhushanchand/MCP4251/issues/1) in [kulbhushanchand/MCP4251](https://github.com/kulbhushanchand/MCP4251)
+2. ❗️ Closed issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+3. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+4. ❗️ Reopened issue [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
+5. 🗣 Commented on [#16](https://github.com/kulbhushanchand/kulbhushanchand.github.io/issues/16) in [kulbhushanchand/kulbhushanchand.github.io](https://github.com/kulbhushanchand/kulbhushanchand.github.io)
 <!--END_SECTION:activity-->
 
 
