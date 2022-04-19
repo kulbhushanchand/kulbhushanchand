@@ -79,11 +79,11 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1259](https://github.com/rstudio/bookdown/issues/1259) in [rstudio/bookdown](https://github.com/rstudio/bookdown)
-2. 🎉 Merged PR [#7](https://github.com/kulbhushanchand/github-slideshow/pull/7) in [kulbhushanchand/github-slideshow](https://github.com/kulbhushanchand/github-slideshow)
-3. 🎉 Merged PR [#10](https://github.com/kulbhushanchand/github-slideshow/pull/10) in [kulbhushanchand/github-slideshow](https://github.com/kulbhushanchand/github-slideshow)
-4. 🗣 Commented on [#732](https://github.com/Zettlr/Zettlr/issues/732) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
-5. 🗣 Commented on [#1](https://github.com/kulbhushanchand/MCP4251/issues/1) in [kulbhushanchand/MCP4251](https://github.com/kulbhushanchand/MCP4251)
+1. 🗣 Commented on [#732](https://github.com/Zettlr/Zettlr/issues/732) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
+2. 🗣 Commented on [#1259](https://github.com/rstudio/bookdown/issues/1259) in [rstudio/bookdown](https://github.com/rstudio/bookdown)
+3. 🎉 Merged PR [#7](https://github.com/kulbhushanchand/github-slideshow/pull/7) in [kulbhushanchand/github-slideshow](https://github.com/kulbhushanchand/github-slideshow)
+4. 🎉 Merged PR [#10](https://github.com/kulbhushanchand/github-slideshow/pull/10) in [kulbhushanchand/github-slideshow](https://github.com/kulbhushanchand/github-slideshow)
+5. 🗣 Commented on [#732](https://github.com/Zettlr/Zettlr/issues/732) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
 <!--END_SECTION:activity-->
 
 
