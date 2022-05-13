@@ -79,11 +79,11 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kulbhushanchand/MCP4251/issues/1) in [kulbhushanchand/MCP4251](https://github.com/kulbhushanchand/MCP4251)
-2. 🗣 Commented on [#732](https://github.com/Zettlr/Zettlr/issues/732) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
-3. 🗣 Commented on [#1259](https://github.com/rstudio/bookdown/issues/1259) in [rstudio/bookdown](https://github.com/rstudio/bookdown)
-4. 🎉 Merged PR [#7](https://github.com/kulbhushanchand/github-slideshow/pull/7) in [kulbhushanchand/github-slideshow](https://github.com/kulbhushanchand/github-slideshow)
-5. 🎉 Merged PR [#10](https://github.com/kulbhushanchand/github-slideshow/pull/10) in [kulbhushanchand/github-slideshow](https://github.com/kulbhushanchand/github-slideshow)
+1. 🗣 Commented on [#2](https://github.com/kulbhushanchand/MCP4251/issues/2) in [kulbhushanchand/MCP4251](https://github.com/kulbhushanchand/MCP4251)
+2. 🗣 Commented on [#1](https://github.com/kulbhushanchand/MCP4251/issues/1) in [kulbhushanchand/MCP4251](https://github.com/kulbhushanchand/MCP4251)
+3. 🗣 Commented on [#732](https://github.com/Zettlr/Zettlr/issues/732) in [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
+4. 🗣 Commented on [#1259](https://github.com/rstudio/bookdown/issues/1259) in [rstudio/bookdown](https://github.com/rstudio/bookdown)
+5. 🎉 Merged PR [#7](https://github.com/kulbhushanchand/github-slideshow/pull/7) in [kulbhushanchand/github-slideshow](https://github.com/kulbhushanchand/github-slideshow)
 <!--END_SECTION:activity-->
 
 
