@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). My research interests lie in biofeedback systems, using video games for biofeedback, and gamification. I use Open Source Technologies for most of my projects. You can know more about me at my [website](https://kulbhushanchand.github.io/)
+I am a Post Doctoral Fellow at [Technology Innovation Hub](https://www.iitmandi.ac.in/TIH-HCI/about_ihub.php) at Indian Institute of Technology Mandi. My research interests lie in biofeedback systems, using video games for biofeedback, and gamification. I use Open Source Technologies for most of my projects. You can know more about me at my [website](https://kulbhushanchand.github.io/)
 
 ## 📕 Latest Blog Posts
 
