@@ -58,7 +58,7 @@ I am a Post Doctoral Fellow at [Technology Innovation Hub](https://www.iitmandi.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Website is up and ready!! 🎉](https://kulbhushanchand.github.io/website-is-up-and-ready/)
+- [Welcome quarto…!](https://kulbhushanchand.github.io/blog/2024/12/20/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 
